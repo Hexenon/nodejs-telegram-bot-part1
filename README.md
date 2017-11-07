@@ -1,1 +1,3 @@
-# nodejs-telegram-bot-part1
+# puedes encontrar éste tutorial y más
+
+Aquí en [Code Skill](https://code-skills.blogspot.mx)
